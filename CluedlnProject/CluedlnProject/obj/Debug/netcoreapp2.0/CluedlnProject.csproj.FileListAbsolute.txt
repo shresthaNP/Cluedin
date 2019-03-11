@@ -1,0 +1,11 @@
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\bin\Debug\netcoreapp2.0\CluedlnProject.deps.json
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\bin\Debug\netcoreapp2.0\CluedlnProject.runtimeconfig.json
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\bin\Debug\netcoreapp2.0\CluedlnProject.runtimeconfig.dev.json
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\bin\Debug\netcoreapp2.0\CluedlnProject.dll
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\bin\Debug\netcoreapp2.0\CluedlnProject.pdb
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.csprojAssemblyReference.cache
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.csproj.CoreCompileInputs.cache
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.AssemblyInfoInputs.cache
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.AssemblyInfo.cs
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.dll
+C:\Users\shrestha\source\repos\CluedlnProject\CluedlnProject\obj\Debug\netcoreapp2.0\CluedlnProject.pdb

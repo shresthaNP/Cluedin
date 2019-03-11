@@ -1,0 +1,84 @@
+﻿@model mvc1.Models.Student
+
+@{
+    ViewBag.Title = "Student Information";
+}
+
+
+<div class="row">
+    <div class="col-sm-4">
+        <h4>Student Detail</h4>
+        <table border="1">
+            <tr>
+                <td>ID</td>
+                <td>@Model.Id</td>
+            </tr>
+
+            <tr>
+                <td>Name</td>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <td>Age</td>
+                <td>@Model.Age</td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td>@Model.Address</td>
+            </tr>
+            <tr>
+                <td>Phone</td>
+                <td>@Model.Phone</td>
+            </tr>
+
+        </table>
+    </div>
+    <div class="col-sm-4">
+
+
+    </div>
+    <div class="col-sm-4">Subject Detail </div>
+</div>
+
+
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
